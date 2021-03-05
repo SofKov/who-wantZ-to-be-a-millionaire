@@ -4,7 +4,10 @@ A text-based, create your own adventure game, based on the popular tv show Who W
 As the main character of the game, you start to realise that not everything is as it seems...
 
 How to play the game:
-Simply load the file to your codereader (we used VSCode), and run the code. The game will print to terminal. 
+Simply load the file to your codereader (we used VSCode), and run the code. 
+The game will print to terminal. 
+This is a pure python project, so you will need python to play this game. 
+
 
 This was a group effort between myself, Will, Billy, Fenn and Charles, during the Develop:Coding course at CodeNation! 
 
